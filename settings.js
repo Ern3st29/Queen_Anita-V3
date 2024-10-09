@@ -3,17 +3,14 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //owmner v card
-global.ytname = "YouTube: David Cyril Tech" //ur yt chanel name
-global.socialm = "Telegram: t.me:DeeCee_x" //ur github or insta name
+global.channel
 global.location = "Nigeria, Lagos" //ur location
 
 //new
-global.botname = 'QUEEN_ANITA-V3' //ur bot name
+global.botname = 'ITACHI-V3' //ur bot name
 global.ownernumber = '2349065526692' //ur owner number
 global.ownername = "Ernest"  //ur owner name
-global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
-global.wagc = "https://whatsapp.com/channel/0029VakMfZR4yltPyixMaK0D"
-global.themeemoji = '👸'
+global.themeemoji = ''
 global.wm = "Ernest "
 global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
 global.packname = "Ernest"
@@ -27,8 +24,8 @@ global.hituet = 0
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v3' // reply type 'v1' => 'v4'
 global.autoblocknumber = '' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.antiforeignnumber = '' //set anti foreign number country code
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
