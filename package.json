@@ -1,7 +1,7 @@
 {
-    "name": "QUEEN_ANITA-V3",
+    "name": "ITACHI-V3",
     "version": "3.0.0",
-    "description": "Multi-Device WhatsApp Bot",
+    "description": "Multi-Device WhatsApp Bot,Here for Ernest",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DeeCeeXxx",
+    "author": "Ernest",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
